@@ -13,6 +13,13 @@
   Neste perfil, você encontrará diversos projetos relacionados a Data Science, desde análise de dados até implementações de algoritmos de Machine Learning. Estou sempre buscando expandir meu conhecimento e aprimorar minhas habilidades em áreas como Visualização de Dados, Processamento de Linguagem Natural e Aprendizado de Máquina.
 </p>
 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="70" height="70"/>
+</p>
+
 <p align="left">
   Sinta-se à vontade para explorar meus repositórios, clonar e colaborar com qualquer um deles. Adoro compartilhar conhecimentos e aprender com a comunidade do GitHub.
 </p>
@@ -42,6 +49,6 @@
 
 <div>
 <a href="https://github.com/MatheusDiogo">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDiogo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusDiogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDiogo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusDiogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
