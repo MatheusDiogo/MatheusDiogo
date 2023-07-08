@@ -45,8 +45,6 @@
   <img src="https://media.tenor.com/Cgq_pps73eYAAAAC/limule.gif" alt="Personagem animado Rimoru">
 </p>
 
-![snake gif](https://github.com/MatheusDiogo/MatheusDiogo/blob/output/github-contribution-grid-snake.gif)
-
 <div>
 <a href="https://github.com/MatheusDiogo">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDiogo&layout=compact&langs_count=7&theme=dracula"/>
