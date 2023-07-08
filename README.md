@@ -1,5 +1,7 @@
 <h1 align="left">Bem-vindo(a) ao meu perfil do GitHub!</h1>
 
+![Snake animation](https://github.com/MatheusDiogo/MatheusDiogo/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Graduando-Engenharia%20de%20Controle%20e%20Automação-blue" alt="Graduando em Engenharia de Controle e Automação">
   <img src="https://img.shields.io/badge/Data%20Science-Machine%20Learning%20%7C%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20R-brightgreen" alt="Data Science: Machine Learning, BI, SQL, Python, R">
@@ -44,8 +46,6 @@
 <p align="center">
   <img src="https://media.tenor.com/Cgq_pps73eYAAAAC/limule.gif" alt="Personagem animado Rimoru">
 </p>
-
-![Snake animation](https://github.com/MatheusDiogo/MatheusDiogo/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <div>
