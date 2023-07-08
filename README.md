@@ -45,7 +45,7 @@
   <img src="https://media.tenor.com/Cgq_pps73eYAAAAC/limule.gif" alt="Personagem animado Rimoru">
 </p>
 
-![Snake animation](https://github.com/MatheusDiogo/MatheusDiogo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MatheusDiogo/MatheusDiogo/blob/output/github-contribution-grid-snake.gif)
 
 <div>
 <a href="https://github.com/MatheusDiogo">
