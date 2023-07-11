@@ -35,8 +35,9 @@
 </p>
 
 <p align="center">
+  <a href="https://twitter.com/Matheus_Diiogo"><img src="https://img.shields.io/badge/Twitter-Folow-blue?style=social&logo=twitter" alt="Twitter"></a>
+  <a href="https://instagram.com/Matheus_Diiogo"><img src="https://img.shields.io/badge/Instagram--E4405F/MatheusDiogo?style=social&logo=instagram" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/matheus-diogo"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/Matheus_Diiogo"><img src="https://img.shields.io/twitter/follow/MatheusDiogo?style=social&logo=twitter" alt="Twitter"></a>
 </p>
 
 <p align="left">
