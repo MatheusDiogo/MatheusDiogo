@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  Neste perfil, você encontrará diversos projetos relacionados a Data Science, desde análise de dados até implementações de algoritmos de Machine Learning. Estou sempre buscando expandir meu conhecimento e aprimorar minhas habilidades em áreas como Visualização de Dados, Processamento de Linguagem Natural e Aprendizado de Máquina.
+  Neste perfil, você encontrará diversos projetos relacionados a Data Science, desde análise de dados até implementações de algoritmos de Machine Learning. Estou sempre buscando expandir meu conhecimento e aprimorar minhas habilidades em áreas como Visualização de Dados, Processamento de Linguagem Natural e Aprendizado de Máquina. Além disso, você pode encontrar mais detalhes sobre minha carreira profissional no meu <a href="https://drive.google.com/file/d/1sG8FBGLJvw1BxB9IR1yW49Sd7udB4WbA/view?usp=sharing">currículo</a>.
 </p>
 
 <p align="center">
